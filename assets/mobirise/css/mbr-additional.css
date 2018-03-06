@@ -771,7 +771,7 @@ body {
   min-height: 100vh;
 }
 .cid-qLvnwnADxv .form-block {
-  background: #f5aeb5;
+  background: #85bfd0;
   padding: 2rem;
   outline: 1px dashed #3789a0;
   outline-offset: -15px;
@@ -806,7 +806,7 @@ body {
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   .cid-qLvnwnADxv .form-block {
     border: 1px dashed #3789a0;
-    outline: 15px solid #f5aeb5;
+    outline: 15px solid #85bfd0;
   }
 }
 .cid-qLvrletGpT {
