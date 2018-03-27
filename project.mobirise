@@ -33,7 +33,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.3",
     "uniqCompNum": 20,
-    "versionPublish": "4.5.3"
+    "versionPublish": "4.5.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -41,7 +42,7 @@
         "main": true,
         "title": "wowstagram",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>와우스타그램</title>\n    <meta property=\"og:url\" content=\"http://wowstagram.com/\">\n    <meta property=\"og:title\" content=\"와우스타그램\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/mxGGgto.jpg\">\n    <meta property=\"og:description\" content=\"Self SNS Marketing Service\">\n    <meta name=\"description\" content=\"Self SNS Marketing Service\">\n    <meta name=\"keywords\" content=\"인스타그램,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n</head>",
+        "header_custom": "<head>\n    <title>와우스타그램</title>\n    <meta property=\"og:url\" content=\"http://wowstagram.com/\">\n    <meta property=\"og:title\" content=\"와우스타그램\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/mxGGgto.jpg\">\n    <meta property=\"og:description\" content=\"Self SNS Marketing Service\">\n    <meta name=\"description\" content=\"Self SNS Marketing Service\">\n    <meta name=\"keywords\" content=\"인스타그램,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n<script src='https://cdn.useproof.com/proof.js?acc=eglRYqbZ9pQY6tXvdQHZuhbS1n23' async></script>\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
